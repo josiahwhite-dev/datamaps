@@ -1,0 +1,12 @@
+{
+  "name": "finalmaps",
+  "displayName": "finalmaps",
+  "expo": {
+    "name": "finalmaps",
+    "slug": "finalmaps",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
